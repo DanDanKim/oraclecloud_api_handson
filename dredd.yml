@@ -1,7 +1,7 @@
 reporter: apiary
 custom:
-  apiaryApiKey: 
-  apiaryApiName: 
+  apiaryApiKey: 68b8a547f62e92523273fa2dd8a4a6e1
+  apiaryApiName: movieapi73
 dry-run: null
 hookfiles: null
 language: nodejs
